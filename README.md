@@ -1,6 +1,6 @@
 ### Tài Nguyên - @NguyenDev
-Xin chào, mình là Nguyên. Hiện mình đang là một Junior Developer đang theo học tại Đại Học SPKT Vinh.
-Sở thích của mình là được ngồi ngoài ban công ngắm ánh chiều tà 🌇, nghe những bản nhạc cổ điển ưa thích và đọc một cuốn sách 📔 cùng với một tách cà phê ☕ nhỏ.
-Hy vọng là bạn cũng thích điều đó. Một lần nữa rất vui vì được làm quen với bạn. Chúc bạn có một ngày tốt lành 💕
+Hello, I'm Nguyen.
+My hobby is sitting on the balcony watching the sunset 🌇, listening to my favorite classical music and reading a book 📔 with a small cup of coffee ☕.
+I hope you like it too. Once again, it's nice to meet you. Have a nice day 💕
 
 ###
