@@ -9,8 +9,10 @@ ________/\\\\\\\\\_______/\\\\\_______/\\\\____________/\\\\__/\\\\____________/
        ____\////\\\\\\\\\____\///\\\\\/_____\/\\\_____________\/\\\_\/\\\_____________\/\\\__/\\\\\\\\\\\_______\/\\\_______ 
         _______\/////////_______\/////_______\///______________\///__\///______________\///__\///////////________\///________
 ```
-![NguyenDevs's Stats](https://github-readme-stats.vercel.app/api?username=NguyenDevs&theme=default&show_icons=true&hide_border=false&count_private=false)
-![NguyenDevs's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenDevs&theme=default&show_icons=true&hide_border=false&layout=compact)
+<div>
+  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=NguyenDevs&theme=default&show_icons=true&hide_border=false&count_private=false" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenDevs&theme=default&show_icons=true&hide_border=false&layout=compact" />
+</div>
 ### Hello - Nguyen Dev here!
 My hobby is sitting on the balcony, watching the sunset 🌇, listening to my favorite music and reading a book 📔 with a small cup of coffee ☕.
 I hope you like it too. Once again, it's nice to meet you. Have a nice day 💕
