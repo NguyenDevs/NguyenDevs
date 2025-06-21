@@ -10,10 +10,43 @@ ________/\\\\\\\\\_______/\\\\\_______/\\\\____________/\\\\__/\\\\____________/
         _______\/////////_______\/////_______\///______________\///__\///______________\///__\///////////________\///________
 ```
 
-![NguyenDevs's Stats](https://github-readme-stats.vercel.app/api?username=NguyenDevs&theme=default&show_icons=true&hide_border=false&count_private=false)
-![NguyenDevs's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenDevs&theme=default&show_icons=true&hide_border=false&layout=compact)
-<br>
-### Hello - Nguyen Dev here!
-My hobby is sitting on the balcony, watching the sunset 🌇, listening to my favorite music and reading a book 📔 with a small cup of coffee ☕.
-I hope you like it too. Once again, it's nice to meet you. Have a nice day 💕
-###
+
+## 👋 Hello, I'm Nguyen Devs!
+
+I'm a **passionate Java developer** with a love for crafting robust, scalable, and efficient solutions. My expertise lies in building backend systems, RESTful APIs, and microservices using Java and related technologies like Spring Boot, Hibernate, and Maven. When I'm not coding, you can find me on my balcony, sipping coffee ☕, watching the sunset 🌇, listening to music 🎶, or diving into a good book 📔.
+
+Nice to meet you! Have a great day! 💕
+
+## 🚀 Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white" alt="Hibernate" />
+  <img src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apache-maven&logoColor=white" alt="Maven" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+</p>
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NguyenDevs&theme=radical&show_icons=true&hide_border=true&count_private=true" alt="NguyenDevs's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenDevs&theme=radical&show_icons=true&hide_border=true&layout=compact" alt="NguyenDevs's Top Languages" />
+</p>
+
+## 📫 Connect with Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/nguyendevs"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:tainguyen.devs@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://x.com/nguyendevs"><img src="https://img.shields.io/badge/X-1DA1F2?style=flat-square&logo=x&logoColor=white" alt="X" /></a>
+</p>
+
+---
+
+<p align="center">
+  <i>"Code is like coffee: it’s best when it’s strong and keeps you going!"</i> ☕
+</p>
+
