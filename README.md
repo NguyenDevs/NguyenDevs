@@ -40,7 +40,6 @@ Nice to meet you! Have a great day! 💕
 ## 📫 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/nguyendevs"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:tainguyen.devs@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://x.com/nguyendevs"><img src="https://img.shields.io/badge/X-1DA1F2?style=flat-square&logo=x&logoColor=white" alt="X" /></a>
   <a href="https://facebook.com/nguyendevs"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook" /></a>
