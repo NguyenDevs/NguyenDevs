@@ -46,3 +46,6 @@ Nice to meet you! Have a great day! 💕
   <i>"Code is like coffee: it’s best when it’s strong and keeps you going!"</i> ☕
 </p>
 
+## 💖 Support me
+<p dir="auto">Thank you so much already for using my projects! If you want to go a step further and support my open source work, buy me a coffee:</p>
+<a href="[https://ko-fi.com/Q5Q860KQ2](https://ko-fi.com/nguyendevs)" rel="nofollow"><img height="36" style="height: 36px; max-width: 100%;" src="https://camo.githubusercontent.com/b40301c481c09312353f5a611eb6fe82dc806d894701332b38dd5a6095f3586a/68747470733a2f2f63646e2e6b6f2d66692e636f6d2f63646e2f6b6f6669312e706e673f763d33" border="0" alt="Buy Me a Coffee at ko-fi.com" data-canonical-src="https://cdn.ko-fi.com/cdn/kofi1.png?v=3"></a>
