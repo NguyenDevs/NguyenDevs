@@ -26,8 +26,8 @@ Nice to meet you! Have a great day! 💕
 ## 📊 GitHub Stats
 
 <p align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
-  <img src="https://github-readme-stats.vercel.app/api?username=NguyenDevs&theme=radical&show_icons=true&hide_border=true&count_private=true&line_height=24" height="160" alt="NguyenDevs's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenDevs&theme=radical&layout=compact&hide_border=true&langs_count=8" height="160" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NguyenDevs&theme=radical&show_icons=true&hide_border=true&count_private=true&line_height=24" witdh="450" height="165" alt="NguyenDevs's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenDevs&theme=radical&layout=compact&hide_border=true&langs_count=8" witdh="300" height="165" alt="Top Languages" />
 </p>
 
 
