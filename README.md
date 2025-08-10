@@ -25,10 +25,23 @@ Nice to meet you! Have a great day! 💕
 
 ## 📊 GitHub Stats
 
-<p align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
-  <img src="https://github-readme-stats.vercel.app/api?username=NguyenDevs&theme=radical&show_icons=true&hide_border=true&count_private=true&line_height=24" witdh="450" height="165" alt="NguyenDevs's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenDevs&theme=radical&layout=compact&hide_border=true&langs_count=8" witdh="300" height="165" alt="Top Languages" />
+<details open>
+  <summary>Github Stats ⚡</summary>
+<p dir="auto">
+  <a href="#">
+    <img src="https://github-readme-stats.vercel.app/api?username=NguyenDevs&theme=radical&count_private=true&hide_border=true&line_height=24" 
+         alt="Github stats" 
+         data-canonical-src="https://github-readme-stats.vercel.app/api?username=NguyenDevs&theme=radical&count_private=true&hide_border=true&line_height=24" 
+         style="max-width: 100%; height: 160px;">
+  </a>
+  <a href="#">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenDevs&layout=compact&theme=radical&count_private=true&hide_border=true" 
+         alt="Top Langs" 
+         data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenDevs&layout=compact&theme=radical&count_private=true&hide_border=true" 
+         style="max-width: 100%; height: 160px;">
+  </a>
 </p>
+</details>
 
 
 ## 📫 Connect with Me
