@@ -20,7 +20,7 @@ Nice to meet you! Have a great day! 💕
 ## 🚀 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,jenkins,gradle,mysql,docker,git,intellij&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,jenkins,linux,gradle,mysql,docker,git,idea&theme=dark" />
 </p>
 
 
