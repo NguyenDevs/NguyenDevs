@@ -26,10 +26,13 @@ Nice to meet you! Have a great day! 💕
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NguyenDevs&theme=radical&show_icons=true&hide_border=true&count_private=true" alt="NguyenDevs's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenDevs&theme=radical&show_icons=true&hide_border=true&layout=compact" alt="NguyenDevs's Top Languages" />
-</p>
+<details open>
+  <summary>Click to expand</summary>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=NguyenDevs&theme=radical&show_icons=true&hide_border=true&count_private=true&line_height=24" alt="NguyenDevs's GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenDevs&theme=radical&layout=compact&hide_border=true&langs_count=8" alt="Top Languages" />
+  </p>
+</details>
 
 ## 📫 Connect with Me
 
