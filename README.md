@@ -22,7 +22,7 @@ Nice to meet you! Have a great day! 💕
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,jenkins,linux,gradle,mysql,docker,git,idea&theme=dark" />
 </p>
-
+ 
 ## 📊 GitHub Stats
 <p dir="auto">
   <a href="#">
