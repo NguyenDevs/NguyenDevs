@@ -24,25 +24,21 @@ Nice to meet you! Have a great day! 💕
 </p>
 
 ## 📊 GitHub Stats
-
-<details open>
   <summary>Github Stats ⚡</summary>
 <p dir="auto">
   <a href="#">
     <img src="https://github-readme-stats.vercel.app/api?username=NguyenDevs&theme=radical&count_private=true&hide_border=true&line_height=24" 
          alt="Github stats" 
          data-canonical-src="https://github-readme-stats.vercel.app/api?username=NguyenDevs&theme=radical&count_private=true&hide_border=true&line_height=24" 
-         style="max-width: 100%; height: 160px;">
+         style="max-width: 100%;" width="450" height="165">
   </a>
   <a href="#">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenDevs&layout=compact&theme=radical&count_private=true&hide_border=true" 
          alt="Top Langs" 
          data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenDevs&layout=compact&theme=radical&count_private=true&hide_border=true" 
-         style="max-width: 100%; height: 160px;">
+         style="max-width: 100%;" width="300" height="165">
   </a>
 </p>
-</details>
-
 
 ## 📫 Connect with Me
 
