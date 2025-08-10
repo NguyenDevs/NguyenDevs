@@ -13,7 +13,7 @@ ________/\\\\\\\\\_______/\\\\\_______/\\\\____________/\\\\__/\\\\____________/
 
 ## 👋 Hello, I'm Nguyen Devs!
 
-I'm a **passionate Java developer** with a love for crafting robust, scalable, and efficient solutions. My expertise lies in building backend systems, RESTful APIs and microservices using Java and related technologies like Spring Boot. I am also very interested in Minecraft and this is the game that brought me to this profession. I currently regularly write minecraft plugins, mods with Java, Gradle and Intellij. Well, I spend a lot of time on minecraft. Lately I've been switching to character design rather than coding. When I'm not coding, you can find me on my balcony, sipping coffee ☕, watching the sunset 🌇, listening to music 🎶, or diving into a good book 📔.
+I'm a passionate Java developer with a love for crafting robust, scalable, and efficient solutions. I am very interested in Minecraft and this is the game that brought me to this profession. I currently regularly write minecraft plugins, mods with Java, Gradle and Intellij. Well, I spend a lot of time on minecraft. Lately I've been switching to character design rather than coding. When I'm not coding, you can find me on my balcony, sipping coffee ☕, watching the sunset 🌇, listening to music 🎶, or diving into a good book 📔.
 
 Nice to meet you! Have a great day! 💕
 
