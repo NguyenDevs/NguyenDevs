@@ -25,8 +25,8 @@ Nice to meet you! Have a great day! 💕
  
 ## 📊 GitHub Stats
 
-<a href="#">![Github stats](github-readme-stats-woad-three-60.vercel.app/api?username=NguyenDevs&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
-<a href="#">![Top Langs](github-readme-stats-woad-three-60.vercel.app/api/top-langs/?username=NguyenDevs&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
+<a href="#">![Github stats](https://github-readme-stats-woad-three-60.vercel.app/api?username=NguyenDevs&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
+<a href="#">![Top Langs](https://github-readme-stats-woad-three-60.vercel.app/api/top-langs/?username=NguyenDevs&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
 
 
 ## 📫 Connect with Me
