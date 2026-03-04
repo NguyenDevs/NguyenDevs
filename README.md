@@ -123,4 +123,4 @@ If you enjoy my projects, consider buying me a coffee!
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:A78BFA,100:C4B5FD&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E1065,50:5B21B6,100:4C1D95&height=100&section=footer" width="100%" />
