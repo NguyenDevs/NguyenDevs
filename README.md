@@ -3,7 +3,7 @@
 
 <div align="center">
 
-[![Typing SVG][(https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=B57BFF&center=true&vCenter=true&width=650&lines=Java+%26+Kotlin+Developer+%E2%98%95;Android+App+Crafter+%F0%9F%93%B1;Minecraft+Plugin+%26+Mod+Dev+%E2%9B%8F%EF%B8%8F;Open+Source+Enthusiast+%F0%9F%94%93;Code+%C2%B7+Game+%C2%B7+Repeat+%F0%9F%8E%AE)](https://git.io/typing-svg)](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=B57BFF&center=true&vCenter=true&width=650&lines=Java+%26+Kotlin+Developer;Android+App+Crafter;Minecraft+Plugin+%26+Mod+Dev;Open+Source+Enthusiast;Code+%C2%B7+Game+%C2%B7+Repeat)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=B57BFF&center=true&vCenter=true&width=650&lines=Java+%26+Kotlin+Developer;Android+App+Crafter;Minecraft+Plugin+%26+Mod+Dev;Open+Source+Enthusiast;Code+%C2%B7+Game+%C2%B7+Repeat)](https://git.io/typing-svg)
 
 </div>
 
