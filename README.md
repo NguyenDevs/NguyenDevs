@@ -77,15 +77,15 @@ object NguyenDevs {
 <div align="center">
 
 <a href="#">
-  <img height="170" src="https://github-readme-stats-woad-three-60.vercel.app/api?username=NguyenDevs&theme=blueberry&count_private=true&hide_border=true&line_height=20&show_icons=true" />
+  <img height="170" src="https://github-readme-stats-woad-three-60.vercel.app/api?username=NguyenDevs&theme=tokyonight&count_private=true&hide_border=true&line_height=20&show_icons=true&icon_color=B57BFF&title_color=C9A8FF" />
 </a>
 <a href="#">
-  <img height="170" src="https://github-readme-stats-woad-three-60.vercel.app/api/top-langs/?username=NguyenDevs&layout=compact&theme=blueberry&count_private=true&hide_border=true" />
+  <img height="170" src="https://github-readme-stats-woad-three-60.vercel.app/api/top-langs/?username=NguyenDevs&layout=compact&theme=tokyonight&count_private=true&hide_border=true&title_color=C9A8FF" />
 </a>
 
 <br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=NguyenDevs&theme=blueberry&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=NguyenDevs&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=B57BFF&fire=9B59B6&currStreakLabel=C9A8FF)](https://git.io/streak-stats)
 
 </div>
 
@@ -95,11 +95,11 @@ object NguyenDevs {
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tainguyen.devs@gmail.com)
-[![X / Twitter](https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/nguyendevs)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/nguyendevs)
-[![TikTok](https://img.shields.io/badge/TikTok-FF0050?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@nguyendevs)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@nguyendevs)
+[![Email](https://img.shields.io/badge/Gmail-9B59B6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tainguyen.devs@gmail.com)
+[![X / Twitter](https://img.shields.io/badge/X_(Twitter)-7E57C2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/nguyendevs)
+[![Facebook](https://img.shields.io/badge/Facebook-8E44AD?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/nguyendevs)
+[![TikTok](https://img.shields.io/badge/TikTok-B39DDB?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@nguyendevs)
+[![YouTube](https://img.shields.io/badge/YouTube-7B1FA2?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@nguyendevs)
 
 </div>
 
@@ -121,6 +121,8 @@ If you enjoy my projects, consider buying me a coffee!
 
 <br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=NguyenDevs&color=F89820&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=NguyenDevs&color=9B59B6&style=flat-square&label=Profile+Views)
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=17,18,19,20&height=100&section=footer" width="100%" />
