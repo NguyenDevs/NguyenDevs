@@ -37,7 +37,7 @@ object NguyenDevs {
 
 <img src="https://skillicons.dev/icons?i=java,kotlin,gradle,androidstudio,idea,git&theme=dark" />
 <br/>
-<img src="https://skillicons.dev/icons?i=linux,docker,jenkins,mysql,github&theme=dark" />
+<img src="https://skillicons.dev/icons?i=linux,docker,jenkins,mysql&theme=dark" />
 
 </div>
 
