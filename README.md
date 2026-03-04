@@ -1,8 +1,6 @@
 <!-- Banner: gradient SVG title -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:C4B5FD,50:A78BFA,100:7C3AED&height=200&section=header&text=NguyenDevs&fontSize=65&fontColor=F5F0FF&fontAlignY=38&desc=Java%20%E2%80%A2%20Kotlin%20%E2%80%A2%20Android%20%E2%80%A2%20Minecraft&descAlignY=58&descSize=18&descColor=EDE9FE&animation=fadeIn" width="100%" />
-
 <div align="center">
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=B57BFF&center=true&vCenter=true&width=650&lines=Java+%26+Kotlin+Developer;Android+App+Crafter;Minecraft+Plugin+%26+Mod+Dev;Open+Source+Enthusiast;Code+%C2%B7+Game+%C2%B7+Repeat)](https://git.io/typing-svg)
 
 </div>
