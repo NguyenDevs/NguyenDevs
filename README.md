@@ -1,8 +1,11 @@
 <!-- Banner: gradient SVG title -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=17,18,19,20&height=200&section=header&text=NguyenDevs&fontSize=65&fontColor=F5F0FF&fontAlignY=38&desc=Java%20%E2%80%A2%20Kotlin%20%E2%80%A2%20Android%20%E2%80%A2%20Minecraft&descAlignY=58&descSize=18&descColor=C9A8FF&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:C4B5FD,50:A78BFA,100:7C3AED&height=200&section=header&text=NguyenDevs&fontSize=65&fontColor=F5F0FF&fontAlignY=38&desc=Java%20%E2%80%A2%20Kotlin%20%E2%80%A2%20Android%20%E2%80%A2%20Minecraft&descAlignY=58&descSize=18&descColor=EDE9FE&animation=fadeIn" width="100%" />
 
-<!-- Typing animation — lavender color -->
+<div align="center">
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=B57BFF&center=true&vCenter=true&width=650&lines=Java+%26+Kotlin+Developer+%E2%98%95;Android+App+Crafter+%F0%9F%93%B1;Minecraft+Plugin+%26+Mod+Dev+%E2%9B%8F%EF%B8%8F;Open+Source+Enthusiast+%F0%9F%94%93;Code+%C2%B7+Game+%C2%B7+Repeat+%F0%9F%8E%AE)](https://git.io/typing-svg)
+
+</div>
 
 ---
 
@@ -38,14 +41,9 @@ object NguyenDevs {
 
 <div align="center">
 
-### ⚡ Languages & Frameworks
-<img src="https://skillicons.dev/icons?i=java,kotlin,gradle&theme=dark" />
-
-### 📱 Android & Tools
-<img src="https://skillicons.dev/icons?i=androidstudio,idea,git,github&theme=dark" />
-
-### 🛠️ DevOps & Infrastructure
-<img src="https://skillicons.dev/icons?i=linux,docker,jenkins,mysql&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,kotlin,gradle,androidstudio,idea,git&theme=dark" />
+<br/>
+<img src="https://skillicons.dev/icons?i=linux,docker,jenkins,mysql,github&theme=dark" />
 
 </div>
 
@@ -125,4 +123,4 @@ If you enjoy my projects, consider buying me a coffee!
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=17,18,19,20&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:A78BFA,100:C4B5FD&height=100&section=footer" width="100%" />
