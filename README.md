@@ -1,8 +1,6 @@
 <!-- Banner: gradient SVG title -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4C1D95,50:5B21B6,100:2E1065&height=200&section=header&text=NguyenDevs&fontSize=65&fontColor=F5F0FF&fontAlignY=38&desc=Java%20%E2%80%A2%20Kotlin%20%E2%80%A2%20Android%20%E2%80%A2%20Minecraft&descAlignY=58&descSize=18&descColor=EDE9FE&animation=fadeIn&fontFamily=Raleway" width="100%" />
-
 ---
-
 ## 🧑‍💻 About Me
 
 ```kotlin
