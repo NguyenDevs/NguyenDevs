@@ -91,7 +91,7 @@ object NguyenDevs {
 [![X / Twitter](https://img.shields.io/badge/X_(Twitter)-7E57C2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/nguyendevs)
 [![Facebook](https://img.shields.io/badge/Facebook-8E44AD?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/nguyendevs)
 [![TikTok](https://img.shields.io/badge/TikTok-B39DDB?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@nguyendevs)
-[![YouTube](https://img.shields.io/badge/YouTube-7B1FA2?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@nguyendevs)
+[![Discord](https://img.shields.io/badge/Discord-7B1FA2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/883689446422220821)
 
 </div>
 
