@@ -35,9 +35,9 @@ object NguyenDevs {
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,kotlin,gradle,androidstudio,idea,git&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,kotlin,javascript,cpp,idea,git&theme=dark" />
 <br/>
-<img src="https://skillicons.dev/icons?i=linux,jenkins,mysql&theme=dark" />
+<img src="https://skillicons.dev/icons?i=linux,jenkins,docker&theme=dark" />
 
 </div>
 
