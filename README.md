@@ -14,8 +14,7 @@ object NguyenDevs {
     val passion  = listOf(
         "Java / Kotlin Backend",
         "Android Development",
-        "Minecraft Plugins & Mods",
-        "Open Source Projects"
+        "Minecraft Plugins & Mods"
     )
 
     val offscreen = listOf(
@@ -24,8 +23,6 @@ object NguyenDevs {
         "🎶 Listening to music",
         "📔 Reading good books"
     )
-
-    fun greet() = "Hey there! Welcome to my corner of GitHub 👋"
 }
 ```
 
@@ -35,9 +32,7 @@ object NguyenDevs {
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,kotlin,javascript,cpp,idea,git&theme=dark" />
-<br/>
-<img src="https://skillicons.dev/icons?i=linux,jenkins,docker&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,kotlin,javascript,cpp,idea,git,linux,jenkins,docker&theme=dark" />
 
 </div>
 
@@ -54,13 +49,6 @@ object NguyenDevs {
 🌍  World Generation & NPC Logic
 📦  Published on Modrinth & SpigotMC
 ```
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Spigot-9B59B6?style=for-the-badge&logo=minecraft&logoColor=white" />
-  <img src="https://img.shields.io/badge/Paper-8E44AD?style=for-the-badge&logo=minecraft&logoColor=white" />
-  <img src="https://img.shields.io/badge/Fabric-B39DDB?style=for-the-badge&logo=minecraft&logoColor=white" />
-  <img src="https://img.shields.io/badge/Forge-7E57C2?style=for-the-badge&logo=minecraft&logoColor=white" />
-</div>
 
 ---
 
