@@ -88,10 +88,7 @@ object NguyenDevs {
 <div align="center">
 
 *"Code is like coffee — it's best when it's strong and keeps you going."* ☕
-
 <br/>
-
-### 💖 Support My Work
 
 If you enjoy my projects, consider buying me a coffee!
 
@@ -99,7 +96,7 @@ If you enjoy my projects, consider buying me a coffee!
   <img height="40" src="https://cdn.ko-fi.com/cdn/kofi1.png?v=3" alt="Buy Me a Coffee at ko-fi.com" />
 </a>
 
-<br/><br/>
+<br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=NguyenDevs&color=9B59B6&style=flat-square&label=Profile+Views)
 
