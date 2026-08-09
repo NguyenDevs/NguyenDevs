@@ -38,20 +38,6 @@ object NguyenDevs {
 
 ---
 
-## 🎮 Minecraft Dev Corner
-
-> *"Where my love for coding was born"* ⚡
-
-```
-⛏️  Bukkit / Spigot / Paper Plugins
-🧩  Fabric & Forge Mods  
-🔧  Custom Items, Mechanics & Game Systems
-🌍  World Generation & NPC Logic
-📦  Published on Modrinth & SpigotMC
-```
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
